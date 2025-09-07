@@ -1,0 +1,13 @@
+/_build/
+/_install/
+/_opam/
+/*.install
+*.merlin
+.merlin
+*.cmt*
+*.cmx*
+*.exe
+*.utop
+*~
+/#*/#
+.DS_Store
